@@ -2,7 +2,7 @@
 	justify-content: center;
 	margin: 0px;
 	padding: 0px;
-	font-family: Arial, sans-serif;
+	font-family: GrandstanderNormal, Arial, sans-serif;
 	outline-style: none;
 }
 
@@ -44,7 +44,7 @@ footer {
 }
 
 h1, h2, h3, h4, summary {
-	font-family: Arial Black, sans-serif;
+	font-family: GrandstanderBold, Arial Black, sans-serif;
 }
 
 h1 {
@@ -119,4 +119,16 @@ details p {
 	iframe {
 		height: 600px;
 	}
+}
+
+@font-face {
+	font-family: GrandstanderNormal;
+	src: url(grandstander.ttf);
+	font-weight: 400;
+}
+
+@font-face {
+	font-family: GrandstanderBold;
+	src: url(grandstander.ttf);
+	font-weight: 900;
 }
