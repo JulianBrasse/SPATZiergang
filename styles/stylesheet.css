@@ -90,6 +90,10 @@ details p {
 	margin-right: 20px;
 }
 
+.notbold {
+	font-family: GrandstanderNormal, Arial, sans-serif;
+}
+
 .button {
 	display: block;
 	width: fit-content;
