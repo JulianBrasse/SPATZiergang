@@ -2,7 +2,7 @@
 	justify-content: center;
 	margin: 0px;
 	padding: 0px;
-	font-family: sans-serif, Arial;
+	font-family: Arial, sans-serif;
 	outline-style: none;
 }
 
@@ -44,7 +44,7 @@ footer {
 }
 
 h1, h2, h3, h4, summary {
-	font-family: sans-serif, Arial Black;
+	font-family: Arial Black, sans-serif;
 }
 
 h1 {
